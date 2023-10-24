@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!--Remember that user stories should follow the INVEST acronum: Negotiable, Valuable, -->
+
 **As a** [role]
 **I need** [function]
 **So that** [benefit]
