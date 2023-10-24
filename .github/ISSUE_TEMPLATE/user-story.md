@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!--Remember that user stories should follow the INVEST acronum: Negotiable, Valuable, -->
+<!--Remember that user stories should follow the INVEST acronum: Independent, negotiable, valuable, estimable, small, and testable. -->
 
 **As a** [role]
 **I need** [function]
